@@ -1,0 +1,9 @@
+:root {
+  --background: #0f1121;
+  --primary-color: #181e3a;
+  --secondary-color: #21294f;
+  --accent-color: #0071db;
+  --text-color: #d6d6d6;
+  --button-hover: #004f9a;
+  --button-delete-hover: #ff5a5a;
+}
