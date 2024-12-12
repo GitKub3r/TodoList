@@ -1,17 +1,9 @@
+@import "../color-palette.css";
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-:root {
-  --background: #0f1324;
-  --primary-color: #181e3a;
-  --secondary-color: #21294f;
-  --accent-color: #0071db;
-  --text-color: #d6d6d6;
-  --button-hover: #004f9a;
-  --button-delete-hover: #ff5a5a;
 }
 
 html {
@@ -98,6 +90,7 @@ form {
   right: 0;
 
   background-color: var(--accent-color);
+  width: 20%;
   height: 100%;
   padding: 0.25rem 1rem;
   border: none;
